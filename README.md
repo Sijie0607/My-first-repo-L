@@ -9,4 +9,4 @@ Ann is a first year master student in Brandeis University International BUsiness
 Sijia,
 Si jia is a finance and business analytics dual degree student in Brandeis University International Business UNiversity. She majored in legal and law in her undergraduate school and then focused more on business field.
 She had an intership experience in Grandall Law Firm Hunan branch. Her work at the law firm provided her with a sufficient understanding of industry research in the context of corporate finance.
-she focused on industry research and supporting investigations for the IPO process. Her work included carried out comprehensive due diligence procedures and ensure that companies and their business models adhere to regulatory requirements within the capital market.
+she focused on industry research and supporting investigations for the IPO process. Her work included carried out comprehensive due diligence procedures and ensure that companies and their business models adhere to regulatory requirements within the capital market. And also reviewing the accounting data during the financial legal due diligence. 
